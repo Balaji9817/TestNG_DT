@@ -42,6 +42,7 @@ public class Code_TDD_RW {
 		wait= new WebDriverWait(driver, Duration.ofSeconds(50));
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[text()='Text Box']")));
 		driver.findElement(By.xpath("//span[text()='Text Box']")).click();
+		System.out.println(driver.getCurrentUrl());
 		
 	}
 	

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-23T19:32:18 IST" name="Suite" finished-at="2025-08-23T19:32:34 IST" duration-ms="15747">
+    <groups>
+    </groups>
+    <test started-at="2025-08-23T19:32:18 IST" name="Test" finished-at="2025-08-23T19:32:34 IST" duration-ms="15747">
+      <class name="Test.Code_TDD_RW">
+        <test-method is-config="true" signature="setUpBeforeClass()[pri:0, instance:Test.Code_TDD_RW@794cb805]" started-at="2025-08-23T19:32:18 IST" name="setUpBeforeClass" finished-at="2025-08-23T19:32:33 IST" duration-ms="15109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method signature="testDataProcessing()[pri:0, instance:Test.Code_TDD_RW@794cb805]" started-at="2025-08-23T19:32:33 IST" name="testDataProcessing" finished-at="2025-08-23T19:32:34 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProcessing -->
+        <test-method is-config="true" signature="tearDownAfterClass()[pri:0, instance:Test.Code_TDD_RW@794cb805]" started-at="2025-08-23T19:32:34 IST" name="tearDownAfterClass" finished-at="2025-08-23T19:32:34 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+      </class> <!-- Test.Code_TDD_RW -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
